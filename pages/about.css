@@ -1,0 +1,26 @@
+
+body {
+    background-image: url(/pages/assets/mountains-universe02.png);
+    background-size: 100vw;
+}
+
+main {
+    margin-top: 8.3rem;
+    padding: 7rem;
+    width: 80.8rem;
+}
+
+main h1 {
+    color: #FFFFFF;
+    font-size: 4.8rem;
+    font-family: 'Roboto', sans-serif;
+}
+
+main p {
+    margin-top: 2rem;
+
+    color: #FFFFFF;
+    font-size: 1.8rem;
+    font-family: 'Roboto', sans-serif;
+    line-height: 3rem;
+}
